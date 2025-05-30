@@ -1,0 +1,5 @@
+modules/core/m_callbacks.pwn(497) : предупреждение 209: функция "CheckCoolDownPhotographer" должна возвращать значение
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+
+Предупреждений:1.
